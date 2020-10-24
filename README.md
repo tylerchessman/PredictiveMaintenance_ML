@@ -1,5 +1,5 @@
 # PredictiveMaintenance_ML
-A workshop for using Azure ML Studio Classic to prepare, train, and deploy ML models for Predictive Maintenance.
+Hands-on workshop for using Azure ML Studio Classic to prepare, train, and deploy ML models for Predictive Maintenance.
 
 ### Summary
 During this hands-on workshop, participants work through the design, development, and deployment of machine learning models that can be used to proactively determine when and if equipment may fail.
