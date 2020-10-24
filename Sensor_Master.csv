@@ -1,0 +1,22 @@
+Id,Symbol,Description,Units,Component
+s1,T2,Total temperature at fan inlet,°R,Fan
+s2,T24,Total temperature at LPC outlet,°R,LPC
+s3,T30,Total temperature at HPC outlet,°R,HPC
+s4,T50,Total temperature at LPT outlet,°R,LPT
+s5,P2,Pressure at fan inlet,psia,Fan
+s6,P15,Total pressure in bypass-duct,psia,Bypass
+s7,P30,Total pressure at HPC outlet,psia,HPC
+s8,Nf,Physical fan speed,rpm,Fan
+s9,Nc,Physical core speed,rpm,Core
+s10,epr,Engine pressure ratio (P50/P2),--,Engine
+s11,Ps30,Static pressure at HPC outlet,psia,HPC
+s12,phi,Ratio of fuel flow to Ps30,pps/psi,Fuel
+s13,NRf,Corrected fan speed,rpm,Fan
+s14,NRc,Corrected core speed,rpm,Core
+s15,BPR,Bypass Ratio,--,Bypass
+s16,farB,Burner fuel-air ratio,--,Burner
+s17,htBleed,Bleed Enthalpy,--,Engine
+s18,Nf_dmd,Demanded fan speed,rpm,Fan
+s19,PCNfR_dmd,Demanded corrected fan speed,rpm,Fan
+s20,W31,HPT coolant bleed,lbm/s,HPT
+s21,W32,LPT coolant bleed,lbm/s,LPT
